@@ -2,7 +2,7 @@
 Link dump containing every proxy you'll ever need
 
 ## 🖼️ Image Generators
-* [Stable Diffusion Online](https://stablediffusionweb.com) (Brennan's Choice)
+* [Stable Diffusion Online](https://stablediffusionweb.com)
 * [ClipDrop](https://clipdrop.co) (Henry's Choice)
 * [Fotor](https://www.fotor.com/images/create)
 
