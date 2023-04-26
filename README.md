@@ -15,10 +15,10 @@ Link dump containing every proxy you'll ever need
 * [MurfAI](https://murf.ai)
 
 ## ⭐ Proxies
-* [Aero Proxy](https://yo839.sse.codesandbox.io/) (Collin's Choice, but blocked)
+* [Aero Proxy](https://yo839.sse.codesandbox.io/) (Blocked)
 * [Ultraviolet](https://ultra2--liljayd2010.repl.co/)
-* [Page Sandbox](https://rapid-tooth-2bc4.qiangqiang.workers.dev) (Collin's 2nd Choice)
-* [The Gallery of Art](https://login.thegalleryofart.org) (Henry's Choice)
+* [Page Sandbox](https://rapid-tooth-2bc4.qiangqiang.workers.dev) (Fastest)
+* [The Gallery of Art](https://login.thegalleryofart.org) (Easiest to remember)
 
 ---
 
