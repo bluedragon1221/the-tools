@@ -5,6 +5,7 @@ Link dump containing every proxy you'll ever need
 * [Stable Diffusion Online](https://stablediffusionweb.com)
 * [ClipDrop](https://clipdrop.co)
 * [Fotor](https://www.fotor.com/images/create)
+* [Dezgo](https://dezgo.com/) (free, unlimited)
 
 ## 🗨️ ChatBots
 * [ChatGPT](https://chat.openai.com) (Unblocked on Edge)
