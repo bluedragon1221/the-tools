@@ -17,9 +17,6 @@ Link dump containing every proxy you'll ever need
 
 ## 🌐 Proxies
 * [Page Sandbox](https://rapid-tooth-2bc4.qiangqiang.workers.dev) (Fastest)
-* [Interstellar (The Gallery of Art)](https://login.thegalleryofart.org) (Easiest to remember)
-* [Proximity](https://proximity-proxy--liljayd2010.repl.co/)
-* [Space Proxy](https://spaceproxy--liljayd2010.repl.co/)
 
 ## 🎮 Games
 See [`games.md`](./games.md)
