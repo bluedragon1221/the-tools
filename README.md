@@ -19,6 +19,8 @@ Link dump containing every proxy you'll ever need
 * [Page Sandbox](https://rapid-tooth-2bc4.qiangqiang.workers.dev) (Fastest)
 * [FF Sandbox](https://replit.com/@3kh0/Firefox-browser) (Slow, but it works)
   * [This one](https://replit.com/@ChumIsFun/Firefox-WIP) is faster and hasn't been blacklisted by OpenAI yet
+* [Incognito](https://sssuuuuiiiiii.onrender.com/)
+* [Manifest](https://sites.google.com/view/schoolmessage/home?authuser=0)
 
 ## 🎮 Games
 See [`games.md`](./games.md)
