@@ -10,4 +10,7 @@ When choosing your proxy, consider a few things:
 
 ## 2. Use The Proxy
 Generally, you will want to find a search bar on the website.
-Just paste the link that you want to unblock into the search bar, and press enter!
+Just paste the link that you want to unblock into the search bar, and press enter.
+This will send you to an unblocked version of the website.
+
+Beware that some things on the website might not work as expected, but it's better than nothing!
