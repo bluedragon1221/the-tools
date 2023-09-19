@@ -25,4 +25,4 @@ See [`games.md`](./games.md)
 
 ---
 
-[Got a link we don't have?](https://forms.gle/9GvZjpAdnfU1rdPp6)
+Got a link we don't have? Submit a PR (if you know that that means), or fill out [this form](https://forms.gle/9GvZjpAdnfU1rdPp6).
