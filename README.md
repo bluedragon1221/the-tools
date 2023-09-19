@@ -21,6 +21,9 @@ Link dump containing every proxy you'll ever need
 * [Proximity](https://proximity-proxy--liljayd2010.repl.co/)
 * [Space Proxy](https://spaceproxy--liljayd2010.repl.co/)
 
+## 🎮 Games
+See [`games.md`](./games.md)
+
 ---
 
 [Got a link we don't have?](https://forms.gle/9GvZjpAdnfU1rdPp6)
