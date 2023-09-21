@@ -3,3 +3,4 @@
 * [2048](https://c084f2fb-c6a1-4cec-b28c-1a5a7c9043b0.id.repl.co/gams/gfiles/html5/2048/)
 * [Hextris](https://c084f2fb-c6a1-4cec-b28c-1a5a7c9043b0.id.repl.co/gams/gfiles/html5/hextris/)
 * [Retro Bowl](https://c084f2fb-c6a1-4cec-b28c-1a5a7c9043b0.id.repl.co/gams/gfiles/html5/retrobowl/)
+* [xx142-b2.exe](https://c084f2fb-c6a1-4cec-b28c-1a5a7c9043b0.id.repl.co/gams/gfiles/html5/xx142-b2exe/)
