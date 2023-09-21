@@ -17,8 +17,8 @@ Link dump containing every proxy you'll ever need
 
 ## 🌐 Proxies
 * [Page Sandbox](https://rapid-tooth-2bc4.qiangqiang.workers.dev) (Fastest, but sometimes has a wierd "rate limit" error)
-* [FF Sandbox](https://replit.com/@3kh0/Firefox-browser) (Slow, but it works)
-  * [This one](https://replit.com/@ChumIsFun/Firefox-WIP) is faster and hasn't been blacklisted by OpenAI yet
+* [FF Sandbox](https://replit.com/@3kh0/Firefox-browser?embed=true) (Slow, but it works)
+  * [This one](https://replit.com/@ChumIsFun/Firefox-WIP?embed=true) is faster and hasn't been blacklisted by OpenAI yet
 * [Incognito](https://sssuuuuiiiiii.onrender.com/)
 
 ## 🎮 Games
