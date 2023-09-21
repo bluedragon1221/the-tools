@@ -16,6 +16,8 @@ Link dump containing every proxy you'll ever need
 * [MurfAI](https://murf.ai)
 
 ## 🌐 Proxies
+
+If you don't know how to use a proxy, see [`use_proxy.md`](./use_proxy.md) 
 * [Page Sandbox](https://rapid-tooth-2bc4.qiangqiang.workers.dev) (Fastest, but sometimes has a wierd "rate limit" error)
 * [FF Sandbox](https://replit.com/@3kh0/Firefox-browser?embed=true) (Slow, but it works)
   * [This one](https://replit.com/@ChumIsFun/Firefox-WIP?embed=true) is even slower, but hasn't been blacklisted by OpenAI yet
