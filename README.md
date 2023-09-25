@@ -8,8 +8,8 @@ Link dump containing every proxy you'll ever need
 * [Dezgo](https://dezgo.com/) (free, unlimited)
 
 ## 🗨️ ChatBots
-* [ChatGPT](https://chat.openai.com) (Unblocked on Edge)
-* [ChatGPT Proxy](https://chatgptproxy.info) (Needs Proxy)
+* [ChatGPT](https://chat.openai.com) (If you can unblock it)
+* [Google Bard](https://bard.google.com) (Same thing)
 
 ## 📢 AI Voices
 * [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis)
