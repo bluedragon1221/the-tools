@@ -22,6 +22,7 @@ If you don't know how to use a proxy, see [`use_proxy.md`](./use_proxy.md)
 * [FF Sandbox](https://replit.com/@3kh0/Firefox-browser?embed=true) (Slow, but it works)
   * [This one](https://replit.com/@ChumIsFun/Firefox-WIP?embed=true) is even slower, but hasn't been blacklisted by OpenAI yet
 * [Incognito](https://sssuuuuiiiiii.onrender.com/)
+* [12ft](https://12ft.io)
 
 ## 🎮 Games
 See [`games.md`](./games.md)
