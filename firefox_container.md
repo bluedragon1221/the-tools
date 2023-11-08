@@ -3,7 +3,7 @@ _because the ones that other people make always break_
 
 Create a new Repl in Replit, and Select `Bash` for the type
 
-![Bash Repl](./_resources/make_bash_repl.png)
+![Bash Repl](./bash_repl.png)
 
 Then click 'Create Repl'
 
@@ -17,6 +17,6 @@ Then click the run button.
 You'll see a new window open up with your Firefox container!
 Keep in mind that it might take a while to load; this is normal, just be patient.
 
-![Firefox Window](./_resources/firefox.png)
+![Firefox Window](./firefox.png)
 
 You can resize and move the window so that it is a bit bigger.
