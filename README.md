@@ -10,7 +10,7 @@ Link dump containing every proxy you'll ever need
 ## 🗨️ ChatBots
 * [ChatGPT](https://chat.openai.com) (If you can unblock it)
 * [Google Bard](https://bard.google.com) (Same thing)
-* [Claude by Anthropic](https://claude.ai) (Not unblocked yet!)
+* [Claude by Anthropic](https://claude.ai) (Not blocked yet!)
 
 ## 📢 AI Voices
 * [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis)
